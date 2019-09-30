@@ -1,0 +1,80 @@
+block prelude
+doctype html
+block vars
+html(class="no-js", lang="en-us")
+	head
+		meta(charset="utf-8")
+		<!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge'><![endif]-->
+		block title
+			title #{current} | People Powered Progressives
+		block description
+			meta(name="description"
+				content=description)
+		meta(name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover")
+		meta(name="supported-color-schemes" content="light dark")
+
+		block links
+			link(rel="apple-touch-icon" href="icon.png")
+			link(rel="stylesheet" href="css/main.css")
+		block styles
+
+	body(class=current)
+		<!--[if lt IE 9]>
+			p.browserupgrade
+				| You are using an #[strong outdated] browser. Please
+				|
+				a(href="http://browsehappy.com/") upgrade your browser
+				|  to improve your experience.
+		<![endif]-->
+
+
+		header#main-header
+			block header
+
+				.clearfix
+					.title
+						h1 People Powered Progressives
+						p Candidates for Democratic Central Committee
+
+					.logo
+						a(href="/" class={active: current === 'Home'})
+							img(src="img/logo.png" alt="Logo")
+
+					//- Hamburger Menu
+					input#navigation(type="checkbox")
+					label.hamburger(for="navigation")
+						div.spinner.diagonal.part-1
+						div.spinner.horizontal
+						div.spinner.diagonal.part-2
+
+					mixin navLink(link, name)
+						li: a(
+							href=link
+							class={active: name === current}
+						) #{name}
+
+					nav.page-menu
+						ul
+							+navLink('./', 'Home')
+							+navLink('ad15.html', 'AD 15')
+							+navLink('ad16.html', 'AD 16')
+							+navLink('ad18.html', 'AD 18')
+							+navLink('ad20.html', 'AD 20')
+							+navLink('ad25.html', 'AD 25')
+							+navLink('https://www.efundraisingconnections.com/c/PeoplePoweredProgressives/', 'Contribute')
+
+
+		main
+			block main
+
+		block footer
+			footer
+
+		block additional-html
+		
+		block scripts
+			// Modernizer-like
+			// Remove "no-js" class from element, if it exists
+			script.
+				document.documentElement.className = document.documentElement.className.replace("no-js","js");
+

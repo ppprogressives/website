@@ -1,0 +1,198 @@
+/*
+================================================================================
+
+Classes and sections replicated across multiple pages
+
+================================================================================
+*/
+
+/*
+----------------------------------------
+Header
+----------------------------------------
+*/
+
+header#main-header {
+	padding-top:5em;
+	background-color: #440000;
+	color:white;
+}
+.logo { float:left; width:25%; max-width:250px; }
+.title { float:left; width:75%; }
+
+
+/*
+----------------------------------------
+Page Navigation Menu
+----------------------------------------
+*/
+
+// Unless overridden, do not show hamburger menu
+input#navigation[type="checkbox"], label.hamburger {
+	display:none;
+}
+
+
+// ######## FULL SCREEN NAVIGATION #######
+
+// Constants so we know actual height of menu area to place logo below it
+$page-menu-padding-h: 0.75rem;
+$page-menu-padding-v: 1.0rem;
+$page-menu-font-size: 1.0rem;
+
+@media only screen and (min-width:$mainBreakpoint) {
+
+
+
+	// similar to quick-stream ?
+
+	nav.page-menu {
+		display:block;
+		position:absolute;
+		top:0; right:0;
+		text-align:center;
+
+		ul {
+			padding:0;
+			margin:0;
+			list-style:none;
+			overflow:hidden;
+			text-align:right;
+		}
+		li {
+			margin:0;
+			color:#fff;
+			display:inline-block;
+			line-height:1;
+			font-size:$page-menu-font-size;
+			font-weight:300;
+			letter-spacing:2px;
+		}
+		a {
+			color:#fff;
+			text-decoration:none;
+			display:block;
+			padding:$page-menu-padding-v $page-menu-padding-h;
+		}
+		a.active {
+			color:var(--color-Inverse);
+		}
+		a:hover {
+			background:var(--color-Inverse);
+			color:var(--color-ink-med);
+		}
+	}
+}
+
+// ######## HAMBURGER MENU NAVIGATION #######
+
+
+@media only screen and (max-width:($mainBreakpoint - 1px)) {
+
+
+	/* ===== Navigation ===== */
+	// Based on https://codepen.io/marclloyd77/pen/gtypB
+	// and later on https://codepen.io/plavookac/pen/qomrMw
+
+	$menuWidth: 12rem;		//
+	$menuMargin: 0.5rem;	// Use same units so we don't need calc
+	$menuSize: 32px;
+	$speed: 200ms;
+	$nav-background: #445566;
+
+	nav.page-menu {
+		display:block;
+		position:fixed;
+		top:0;
+		right:0;
+		height:100%;
+		width:$menuWidth;
+		z-index:10;
+		transform: translateX(250px);
+		transition: transform 250ms ease-in-out;
+
+		ul {
+			width:$menuWidth;
+			height:100%;
+			padding:0;
+			margin:0;
+			list-style:none;
+			background:$nav-background;
+			overflow:hidden;
+		}
+		li {
+			margin:0;
+			color:#fff
+		}
+		a {
+			color:#fff;
+			font-size:1rem;
+			text-decoration:none;
+			display:block;
+			padding:12px 15px;
+			font-weight:300;
+			letter-spacing:2px;
+		}
+		a.active {
+			color:var(--color-Inverse);
+		}
+		a:hover {
+			background:#111;
+		}
+	}
+
+	label.hamburger {
+		display:block;
+		position:absolute;
+		top: 50%;
+		transform: translateY(-50%);
+		right:$menuMargin;
+		width:$menuSize;
+		height:25px;
+		z-index:11;
+		cursor: pointer;
+	}
+	input#navigation[type="checkbox"] {
+
+		&:checked ~ .page-menu {
+			transform: translateX(0);
+		}
+		&:checked ~ label {
+			position:fixed;	// make sure icon doesn't scroll off of screen since whole menu is fixed
+			transform:none;
+			top:$menuMargin;
+		}
+		&:checked ~ label > .horizontal {
+			opacity: 0;						// fade out middle
+		}
+		&:checked ~ label > .diagonal.part-1 {
+			transform: rotate(135deg);		// animate to diagonal
+			margin-top: 10px;
+		}
+		&:checked ~ label > .diagonal.part-2 {
+			transform: rotate(-135deg);		// animate to diagonal
+			margin-top: -15px;
+		}
+	}
+
+	.spinner {
+		transition: all 0.3s;
+		position: relative;
+		float: left;
+		height: 5px;
+		border-radius: 2px;
+		width: 100%;
+		background-color: var(--color-Inverse);
+	}
+	.horizontal, .diagonal.part-2 {
+		margin-top: 5px;			// spacing between layers
+	}
+}
+
+a.active {
+  pointer-events: none;
+  cursor: default;
+}
+
+
+

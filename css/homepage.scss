@@ -1,0 +1,94 @@
+/*
+================================================================================
+
+Home-Page specific classes
+
+================================================================================
+*/
+
+h3.righthand {
+	margin:0;
+	padding:1rem 1rem;
+	text-align:right;
+}
+
+/*
+----------------------------------------
+Input Forms
+----------------------------------------
+*/
+
+.input-form input,
+.input-form textarea,
+.input-form select {
+	display:inline-block;
+	font-size:1rem;
+	margin-bottom:1rem;
+	padding:0.25rem 0.5rem;
+	width:95%;	/* Due to padding, make sure it won't overflow */
+	max-width:30rem;
+	color:var(--color-ink-high);
+}
+
+input[type="submit"] {
+	display:block;
+	text-align:center;
+	color:var(--color-paper-high);
+	background:var(--color-Link);
+	padding:6px 2rem;
+	border:none;
+	width:auto;
+	border-radius:4px;
+}
+
+
+
+
+/*
+----------------------------------------
+Contact Section
+----------------------------------------
+*/
+
+.contact-section {
+	background:var(--color-paper-low);
+	color:var(--color-ink-high);
+}
+
+.input-form a {
+	color:var(--color-paper-high);
+}
+.trapit { display:none !important; }
+
+
+
+
+/*
+----------------------------------------
+
+----------------------------------------
+*/
+
+
+
+/*
+----------------------------------------
+
+----------------------------------------
+*/
+
+
+
+/*
+----------------------------------------
+
+----------------------------------------
+*/
+
+
+
+/*
+----------------------------------------
+
+----------------------------------------
+*/
