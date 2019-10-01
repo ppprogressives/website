@@ -892,13 +892,13 @@ header#main-header {
   color: white; }
 
 .logo {
-  float: left;
+  float: right;
   width: 25%;
-  max-width: 250px; }
+  max-width: 250px;
+  padding: 0 3em 3em 3em; }
 
 .title {
-  float: left;
-  width: 75%; }
+  padding: 0 3em 3em 3em; }
 
 /*
 ----------------------------------------
@@ -978,8 +978,7 @@ input#navigation[type="checkbox"], label.hamburger {
   label.hamburger {
     display: block;
     position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
+    top: 10px;
     right: 0.5rem;
     width: 32px;
     height: 25px;

@@ -17,8 +17,14 @@ header#main-header {
 	background-color: #440000;
 	color:white;
 }
-.logo { float:left; width:25%; max-width:250px; }
-.title { float:left; width:75%; }
+.logo {
+	float:right;
+	width:25%; max-width:250px;
+	padding:0 3em 3em 3em;
+}
+.title {
+	padding:0 3em 3em 3em;
+}
 
 
 /*
@@ -144,8 +150,7 @@ $page-menu-font-size: 1.0rem;
 	label.hamburger {
 		display:block;
 		position:absolute;
-		top: 50%;
-		transform: translateY(-50%);
+		top:10px;
 		right:$menuMargin;
 		width:$menuSize;
 		height:25px;

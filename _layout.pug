@@ -6,7 +6,7 @@ html(class="no-js", lang="en-us")
 		meta(charset="utf-8")
 		<!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge'><![endif]-->
 		block title
-			title #{current} | People Powered Progressives
+			title #{current} | People-Powered Progressives
 		block description
 			meta(name="description"
 				content=description)
@@ -32,13 +32,13 @@ html(class="no-js", lang="en-us")
 			block header
 
 				.clearfix
-					.title
-						h1 People Powered Progressives
-						p Candidates for Democratic Central Committee
-
 					.logo
 						a(href="/" class={active: current === 'Home'})
 							img(src="img/logo.png" alt="Logo")
+					.title
+						h1 People-Powered Progressives
+						p Candidates for Democratic Central Committee
+
 
 					//- Hamburger Menu
 					input#navigation(type="checkbox")
