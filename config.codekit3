@@ -9,28 +9,12 @@
 	],
 "creatorBuild": "31491",
 "files": {
-	"/.generate.php": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/.generate.php",
-		"oF": 0
-		},
 	"/.gitignore": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/.gitignore",
-		"oF": 0
-		},
-	"/.htaccess": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/.htaccess",
 		"oF": 0
 		},
 	"/404.html": {
@@ -51,6 +35,102 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"/_sources/ad in county.acorn": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_sources/ad in county.acorn",
+		"oF": 0
+		},
+	"/_sources/ad18/aguilar.jpg": {
+		"ft": 16384,
+		"iS": 4268464,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_sources/ad18/aguilar.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_sources/ad18/andrea.jpg": {
+		"ft": 16384,
+		"iS": 146817,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_sources/ad18/andrea.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_sources/ad18/elenes.jpg": {
+		"ft": 16384,
+		"iS": 1109594,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_sources/ad18/elenes.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_sources/ad18/gage.jpg": {
+		"ft": 16384,
+		"iS": 86479,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_sources/ad18/gage.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_sources/ad18/moreno.jpg": {
+		"ft": 16384,
+		"iS": 159967,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_sources/ad18/moreno.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_sources/ad18/price.jpg": {
+		"ft": 16384,
+		"iS": 3447018,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_sources/ad18/price.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_sources/ad18/roberts.jpg": {
+		"ft": 16384,
+		"iS": 44139,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_sources/ad18/roberts.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_sources/ad18/tatmon.jpg": {
+		"ft": 16384,
+		"iS": 5043,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_sources/ad18/tatmon.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_sources/logo.png": {
 		"ft": 32768,
 		"iS": 176816,
@@ -62,6 +142,22 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/_sources/PPP logo.acorn": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_sources/PPP logo.acorn",
+		"oF": 0
+		},
+	"/ad18.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/ad18.html",
+		"oF": 0
+		},
 	"/ad18.pug": {
 		"cB": 0,
 		"cOD": 1,
@@ -69,6 +165,24 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/ad18.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"/ad20.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/ad20.html",
+		"oF": 0
+		},
+	"/ad20.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/ad20.html",
 		"oF": 0,
 		"oS": 0
 		},
@@ -110,6 +224,14 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/classes/class.housekeeping.php",
+		"oF": 0
+		},
+	"/CNAME": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/CNAME",
 		"oF": 0
 		},
 	"/css/generic.css": {
@@ -263,6 +385,94 @@
 		"oAP": "/humans.txt",
 		"oF": 0
 		},
+	"/img/ad18/aguilar.jpg": {
+		"ft": 16384,
+		"iS": 4268464,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/ad18/aguilar.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/img/ad18/andrea.jpg": {
+		"ft": 16384,
+		"iS": 146817,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/ad18/andrea.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/img/ad18/elenes.jpg": {
+		"ft": 16384,
+		"iS": 1109594,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/ad18/elenes.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/img/ad18/gage.jpg": {
+		"ft": 16384,
+		"iS": 86479,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/ad18/gage.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/img/ad18/moreno.jpg": {
+		"ft": 16384,
+		"iS": 159967,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/ad18/moreno.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/img/ad18/price.jpg": {
+		"ft": 16384,
+		"iS": 3447018,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/ad18/price.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/img/ad18/roberts.jpg": {
+		"ft": 16384,
+		"iS": 44139,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/ad18/roberts.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/img/ad18/tatmon.jpg": {
+		"ft": 16384,
+		"iS": 5043,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/ad18/tatmon.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/img/alameda-county-assembly-districts.jpeg": {
 		"ft": 16384,
 		"iS": 728099,
@@ -303,6 +513,25 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"/README.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"/robots.txt": {
 		"cB": 0,
 		"ft": 8192,
@@ -326,7 +555,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 591380731.79958606,
-	"displayValue": "PeoplePoweredProgressives",
+	"displayValue": "ppp-website",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "brackets-rose",
 	"iconImageWasSetByUser": 0

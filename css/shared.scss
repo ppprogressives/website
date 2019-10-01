@@ -196,3 +196,28 @@ a.active {
 
 
 
+
+
+
+.person {
+	@extend .clearfix;
+	img {
+		max-width:100px; 
+		float:left;
+		margin-right:1em;
+	}
+	h3 {
+		margin-bottom:0;
+	}
+	.occupation {
+		font-style:italic;
+		color:green;
+	}
+
+	padding-bottom:1em;
+	border-bottom:1px solid #CCC;
+	margin-bottom:2em;
+}
+
+
+
