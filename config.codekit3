@@ -98,6 +98,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/_sources/ad18/iris.jpg": {
+		"ft": 16384,
+		"iS": 37329,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_sources/ad18/iris.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_sources/ad18/moreno.jpg": {
 		"ft": 16384,
 		"iS": 159967,
@@ -133,7 +144,7 @@
 		},
 	"/_sources/ad18/tatmon.jpg": {
 		"ft": 16384,
-		"iS": 5043,
+		"iS": 841697,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_sources/ad18/tatmon.jpg",
@@ -142,12 +153,56 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/_sources/ad20/iris.jpg": {
+	"/_sources/ad20/barisha.jpg": {
 		"ft": 16384,
-		"iS": 37329,
+		"iS": 10732,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_sources/ad20/iris.jpg",
+		"oAP": "/_sources/ad20/barisha.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_sources/ad20/joseph.jpg": {
+		"ft": 16384,
+		"iS": 21954,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_sources/ad20/joseph.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_sources/ad20/melissa.jpg": {
+		"ft": 16384,
+		"iS": 321669,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_sources/ad20/melissa.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_sources/ad20/vanessa.jpg": {
+		"ft": 16384,
+		"iS": 305291,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_sources/ad20/vanessa.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_sources/ad20/vinnie.jpg": {
+		"ft": 16384,
+		"iS": 18691,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_sources/ad20/vinnie.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -462,6 +517,17 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/img/ad18/iris.jpg": {
+		"ft": 16384,
+		"iS": 37329,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/ad18/iris.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/img/ad18/moreno.jpg": {
 		"ft": 16384,
 		"iS": 159967,
@@ -497,13 +563,68 @@
 		},
 	"/img/ad18/tatmon.jpg": {
 		"ft": 16384,
-		"iS": 5043,
+		"iS": 17942,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/img/ad18/tatmon.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"/img/ad20/barisha.jpg": {
+		"ft": 16384,
+		"iS": 10732,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/ad20/barisha.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/img/ad20/joseph.jpg": {
+		"ft": 16384,
+		"iS": 21954,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/ad20/joseph.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/ad20/melissa.jpg": {
+		"ft": 16384,
+		"iS": 321669,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/ad20/melissa.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/img/ad20/vanessa.jpg": {
+		"ft": 16384,
+		"iS": 305291,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/ad20/vanessa.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/img/ad20/vinnie.jpg": {
+		"ft": 16384,
+		"iS": 18691,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/ad20/vinnie.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/alameda-county-assembly-districts.jpeg": {
