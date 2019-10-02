@@ -65,6 +65,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/_sources/ad18/chandler.jpg": {
+		"ft": 16384,
+		"iS": 24105,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_sources/ad18/chandler.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_sources/ad18/elenes.jpg": {
 		"ft": 16384,
 		"iS": 1109594,
@@ -405,6 +416,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"/img/ad18/chandler.jpg": {
+		"ft": 16384,
+		"iS": 12011,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/ad18/chandler.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/img/ad18/elenes.jpg": {
