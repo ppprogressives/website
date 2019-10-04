@@ -740,6 +740,9 @@ blockquote {
     letter-spacing: normal;
     font-size: 80%; }
 
+.centered {
+  text-align: center; }
+
 /*
 ----------------------------------------
 Geometry
