@@ -254,7 +254,7 @@
 		"oA": 0,
 		"oAP": "/ad18.html",
 		"oF": 0,
-		"oS": 0
+		"oS": 1
 		},
 	"/ad20.html": {
 		"cB": 0,
@@ -272,7 +272,7 @@
 		"oA": 0,
 		"oAP": "/ad20.html",
 		"oF": 0,
-		"oS": 0
+		"oS": 1
 		},
 	"/browserconfig.xml": {
 		"cB": 0,
@@ -676,7 +676,15 @@
 		"oA": 0,
 		"oAP": "/index.html",
 		"oF": 0,
-		"oS": 0
+		"oS": 1
+		},
+	"/press-release.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/press-release.html",
+		"oF": 0
 		},
 	"/press-release.pug": {
 		"cB": 0,
@@ -686,7 +694,7 @@
 		"oA": 0,
 		"oAP": "/press-release.html",
 		"oF": 0,
-		"oS": 0
+		"oS": 1
 		},
 	"/README.md": {
 		"cB": 0,
