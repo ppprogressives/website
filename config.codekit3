@@ -109,17 +109,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/_sources/ad18/iris2.jpg": {
-		"ft": 16384,
-		"iS": 116522,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_sources/ad18/iris2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"/_sources/ad18/moreno.jpg": {
 		"ft": 16384,
 		"iS": 159967,
@@ -530,7 +519,7 @@
 		},
 	"/img/ad18/iris.jpg": {
 		"ft": 16384,
-		"iS": 28522,
+		"iS": 37329,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/img/ad18/iris.jpg",
