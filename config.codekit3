@@ -164,17 +164,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/_sources/ad20/joseph.jpg": {
-		"ft": 16384,
-		"iS": 21954,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_sources/ad20/joseph.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"/_sources/ad20/melissa.jpg": {
 		"ft": 16384,
 		"iS": 321669,
@@ -484,6 +473,17 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/img/ad18/brytanee.jpg": {
+		"ft": 16384,
+		"iS": 3086,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/ad18/brytanee.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/img/ad18/chandler.jpg": {
 		"ft": 16384,
 		"iS": 12011,
@@ -581,17 +581,6 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
-		"q": 100
-		},
-	"/img/ad20/joseph.jpg": {
-		"ft": 16384,
-		"iS": 21954,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/img/ad20/joseph.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
 		"q": 100
 		},
 	"/img/ad20/melissa.jpg": {
@@ -727,7 +716,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 591380731.79958606,
-	"displayValue": "ppp-website",
+	"displayValue": "peoplepoweredprogressives",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "brackets-rose",
 	"iconImageWasSetByUser": 0
