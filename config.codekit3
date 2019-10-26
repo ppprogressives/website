@@ -473,6 +473,17 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/img/ad18/austin.jpg": {
+		"ft": 16384,
+		"iS": 5544,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/ad18/austin.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/img/ad18/brytanee.jpg": {
 		"ft": 16384,
 		"iS": 3086,
