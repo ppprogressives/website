@@ -208,6 +208,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/_sources/PPP logo - black on transparent.png": {
+		"ft": 32768,
+		"iS": 138739,
+		"oA": 0,
+		"oAP": "/_sources/PPP logo - black on transparent.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/_sources/PPP logo.acorn": {
 		"cB": 0,
 		"ft": 8192,
@@ -215,6 +226,28 @@
 		"oA": 0,
 		"oAP": "/_sources/PPP logo.acorn",
 		"oF": 0
+		},
+	"/_sources/PPP logo.png": {
+		"ft": 32768,
+		"iS": 129693,
+		"oA": 0,
+		"oAP": "/_sources/PPP logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_sources/thumbnail (1).png": {
+		"ft": 32768,
+		"iS": 206161,
+		"oA": 0,
+		"oAP": "/_sources/thumbnail (1).png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"/ad15.html": {
 		"cB": 0,
