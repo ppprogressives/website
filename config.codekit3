@@ -7,7 +7,7 @@
 		"uuidString": "10B3496D-971D-4067-A4AA-7A0A4A057FF5"
 		}
 	],
-"creatorBuild": "31491",
+"creatorBuild": "31934",
 "files": {
 	"/.gitignore": {
 		"cB": 0,
@@ -43,155 +43,152 @@
 		"oAP": "/_sources/ad in county.acorn",
 		"oF": 0
 		},
-	"/_sources/ad18/aguilar.jpg": {
+	"/_sources/aguilar.jpg": {
 		"ft": 16384,
 		"iS": 4268464,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_sources/ad18/aguilar.jpg",
+		"oAP": "/_sources/aguilar.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/_sources/ad18/andrea.jpg": {
+	"/_sources/alfred.jpg": {
+		"ft": 16384,
+		"iS": 131162,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_sources/alfred.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_sources/andrea.jpg": {
 		"ft": 16384,
 		"iS": 146817,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_sources/ad18/andrea.jpg",
+		"oAP": "/_sources/andrea.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/_sources/ad18/chandler.jpg": {
+	"/_sources/barisha.jpg": {
+		"ft": 16384,
+		"iS": 205814,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_sources/barisha.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_sources/chandler.jpg": {
 		"ft": 16384,
 		"iS": 24105,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_sources/ad18/chandler.jpg",
+		"oAP": "/_sources/chandler.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/_sources/ad18/elenes.jpg": {
+	"/_sources/cullen.jpg": {
+		"ft": 16384,
+		"iS": 41542,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_sources/cullen.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_sources/elenes.jpg": {
 		"ft": 16384,
 		"iS": 1109594,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_sources/ad18/elenes.jpg",
+		"oAP": "/_sources/elenes.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/_sources/ad18/gage.jpg": {
+	"/_sources/everybody.pages": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_sources/everybody.pages",
+		"oF": 0
+		},
+	"/_sources/frank.jpg": {
+		"ft": 16384,
+		"iS": 79312,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_sources/frank.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_sources/gage.jpg": {
 		"ft": 16384,
 		"iS": 86479,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_sources/ad18/gage.jpg",
+		"oAP": "/_sources/gage.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/_sources/ad18/iris.jpg": {
+	"/_sources/howard.jpg": {
+		"ft": 16384,
+		"iS": 101742,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_sources/howard.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_sources/iris.jpg": {
 		"ft": 16384,
 		"iS": 37329,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_sources/ad18/iris.jpg",
+		"oAP": "/_sources/iris.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/_sources/ad18/moreno.jpg": {
+	"/_sources/jackie.jpg": {
 		"ft": 16384,
-		"iS": 159967,
+		"iS": 56454,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_sources/ad18/moreno.jpg",
+		"oAP": "/_sources/jackie.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/_sources/ad18/price.jpg": {
+	"/_sources/jodie.jpg": {
 		"ft": 16384,
-		"iS": 3447018,
+		"iS": 268482,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_sources/ad18/price.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/_sources/ad18/roberts.jpg": {
-		"ft": 16384,
-		"iS": 44139,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_sources/ad18/roberts.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/_sources/ad18/tatmon.jpg": {
-		"ft": 16384,
-		"iS": 841697,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_sources/ad18/tatmon.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/_sources/ad20/barisha.jpg": {
-		"ft": 16384,
-		"iS": 10732,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_sources/ad20/barisha.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/_sources/ad20/melissa.jpg": {
-		"ft": 16384,
-		"iS": 321669,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_sources/ad20/melissa.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/_sources/ad20/vanessa.jpg": {
-		"ft": 16384,
-		"iS": 305291,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_sources/ad20/vanessa.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/_sources/ad20/vinnie.jpg": {
-		"ft": 16384,
-		"iS": 18691,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_sources/ad20/vinnie.jpg",
+		"oAP": "/_sources/jodie.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -206,6 +203,39 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"/_sources/melissa.jpg": {
+		"ft": 16384,
+		"iS": 321669,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_sources/melissa.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_sources/moreno.jpg": {
+		"ft": 16384,
+		"iS": 159967,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_sources/moreno.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_sources/paola.jpg": {
+		"ft": 16384,
+		"iS": 9404313,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_sources/paola.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/_sources/PPP logo - black on transparent.png": {
@@ -238,6 +268,39 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/_sources/price.jpg": {
+		"ft": 16384,
+		"iS": 3447018,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_sources/price.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_sources/roberts.jpg": {
+		"ft": 16384,
+		"iS": 44139,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_sources/roberts.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_sources/tatmon.jpg": {
+		"ft": 16384,
+		"iS": 841697,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_sources/tatmon.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_sources/thumbnail (1).png": {
 		"ft": 32768,
 		"iS": 206161,
@@ -247,6 +310,28 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"/_sources/vanessa.jpg": {
+		"ft": 16384,
+		"iS": 305291,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_sources/vanessa.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_sources/vinnie.jpg": {
+		"ft": 16384,
+		"iS": 18691,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_sources/vinnie.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/ad15.html": {
@@ -265,7 +350,25 @@
 		"oA": 0,
 		"oAP": "/ad15.html",
 		"oF": 0,
-		"oS": 0
+		"oS": 1
+		},
+	"/ad16.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/ad16.html",
+		"oF": 0
+		},
+	"/ad16.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/ad16.html",
+		"oF": 0,
+		"oS": 1
 		},
 	"/ad18.html": {
 		"cB": 0,
@@ -302,6 +405,39 @@
 		"oAP": "/ad20.html",
 		"oF": 0,
 		"oS": 1
+		},
+	"/android-chrome-192x192.png": {
+		"ft": 32768,
+		"iS": 38891,
+		"oA": 0,
+		"oAP": "/android-chrome-192x192.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/android-chrome-512x512.png": {
+		"ft": 32768,
+		"iS": 114757,
+		"oA": 0,
+		"oAP": "/android-chrome-512x512.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/apple-touch-icon.png": {
+		"ft": 32768,
+		"iS": 35712,
+		"oA": 0,
+		"oAP": "/apple-touch-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"/browserconfig.xml": {
 		"cB": 0,
@@ -494,6 +630,36 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"/favicon-16x16.png": {
+		"ft": 32768,
+		"iS": 1356,
+		"oA": 0,
+		"oAP": "/favicon-16x16.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/favicon-32x32.png": {
+		"ft": 32768,
+		"iS": 3348,
+		"oA": 0,
+		"oAP": "/favicon-32x32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/favicon.ico": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/favicon.ico",
+		"oF": 0
+		},
 	"/humans.txt": {
 		"cB": 0,
 		"ft": 8192,
@@ -504,10 +670,43 @@
 		},
 	"/img/ad15/alfred.jpg": {
 		"ft": 16384,
-		"iS": 131162,
+		"iS": 25829,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/img/ad15/alfred.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/ad15/paola.jpg": {
+		"ft": 16384,
+		"iS": 26532,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/ad15/paola.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/ad16/jackie.jpg": {
+		"ft": 16384,
+		"iS": 26410,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/ad16/jackie.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/ad16/jody.jpg": {
+		"ft": 16384,
+		"iS": 27287,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/ad16/jody.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -546,17 +745,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/img/ad18/brytanee.jpg": {
-		"ft": 16384,
-		"iS": 3086,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/img/ad18/brytanee.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"/img/ad18/chandler.jpg": {
 		"ft": 16384,
 		"iS": 12011,
@@ -581,7 +769,7 @@
 		},
 	"/img/ad18/gage.jpg": {
 		"ft": 16384,
-		"iS": 86479,
+		"iS": 9590,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/img/ad18/gage.jpg",
@@ -592,7 +780,7 @@
 		},
 	"/img/ad18/howard.jpg": {
 		"ft": 16384,
-		"iS": 101742,
+		"iS": 22334,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/img/ad18/howard.jpg",
@@ -658,13 +846,35 @@
 		},
 	"/img/ad20/barisha.jpg": {
 		"ft": 16384,
-		"iS": 10732,
+		"iS": 18708,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/img/ad20/barisha.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/ad20/cullen.jpg": {
+		"ft": 16384,
+		"iS": 26826,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/ad20/cullen.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/ad20/frank.jpg": {
+		"ft": 16384,
+		"iS": 25216,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/ad20/frank.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/img/ad20/melissa.jpg": {
@@ -717,9 +927,20 @@
 		"oA": 0,
 		"oAP": "/img/logo.png",
 		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/ppp.jpg": {
+		"ft": 16384,
+		"iS": 107075,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/ppp.jpg",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"oT": 1,
 		"q": 100
 		},
 	"/index.html": {
@@ -785,6 +1006,14 @@
 		"oAP": "/robots.txt",
 		"oF": 0
 		},
+	"/template": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/template",
+		"oF": 0
+		},
 	"/Website.sublime-project": {
 		"cB": 0,
 		"ft": 8192,
@@ -802,7 +1031,7 @@
 	"creationDate": 591380731.79958606,
 	"displayValue": "peoplepoweredprogressives",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "brackets-rose",
+	"iconImageName": "/apple-touch-icon.png",
 	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
@@ -1238,6 +1467,7 @@
 			"flagValue": -1
 			}
 		},
+	"environmentVariablesString": "NODE_ENV:::production",
 	"esLintConfigFileHandlingType": 0,
 	"esLintECMAVersion": 7,
 	"esLintEnvironmentsMask": 1,
@@ -1339,6 +1569,10 @@
 			"optionString": "'all'"
 			},
 		"default-case": {
+			"active": 0,
+			"optionString": ""
+			},
+		"default-param-last": {
 			"active": 0,
 			"optionString": ""
 			},
@@ -1688,6 +1922,10 @@
 			},
 		"no-implied-eval": {
 			"active": 0,
+			"optionString": ""
+			},
+		"no-import-assign": {
+			"active": 1,
 			"optionString": ""
 			},
 		"no-inline-comments": {
@@ -2113,6 +2351,10 @@
 		"prefer-promise-reject-errors": {
 			"active": 0,
 			"optionString": "{'allowEmptyReject': false}"
+			},
+		"prefer-regex-literals": {
+			"active": 0,
+			"optionString": ""
 			},
 		"prefer-rest-params": {
 			"active": 0,
@@ -2722,7 +2964,6 @@
 		"autoOutputPathStyle": 0,
 		"createSourceMap": 1,
 		"enableJavascript": 0,
-		"ieCompatibility": 0,
 		"mathStyle": 0,
 		"outputStyle": 0,
 		"rewriteURLStyle": 0,
@@ -2862,6 +3103,9 @@
 	"npmTargetDependencyListType": 1,
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
+	"rollupExternals": "",
+	"rollupReplacements": "process.env.NODE_ENV:::$NODE_ENV,,,ENVIRONMENT:::$NODE_ENV",
+	"rollupTreeshakingEnabled": 1,
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, /storage/framework/sessions, node_modules",
 	"sourceFolderName": "source",
 	"susyVersion": 3,

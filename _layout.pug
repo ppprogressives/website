@@ -13,6 +13,10 @@ html(class="no-js", lang="en-us")
 		meta(name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover")
 		meta(name="supported-color-schemes" content="light dark")
 
+		link(rel='apple-touch-icon' sizes='180x180' href='/apple-touch-icon.png')
+		link(rel='icon' type='image/png' sizes='32x32' href='/favicon-32x32.png')
+		link(rel='icon' type='image/png' sizes='16x16' href='/favicon-16x16.png')
+
 		block links
 			link(rel="apple-touch-icon" href="icon.png")
 			link(rel="stylesheet" href="css/main.css")
@@ -38,7 +42,7 @@ html(class="no-js", lang="en-us")
 					.title
 						h1 People-Powered Progressives
 						p Candidates for Democratic Central Committee
-
+						p.highlighted: i Voting begins Feb 3 • Election Day March 3
 
 					//- Hamburger Menu
 					input#navigation(type="checkbox")
@@ -57,18 +61,23 @@ html(class="no-js", lang="en-us")
 						ul
 							+navLink('./', 'Home')
 							+navLink('ad15.html', 'AD 15')
-							///+navLink('', 'AD 16')
+							+navLink('ad16.html', 'AD 16')
 							+navLink('ad18.html', 'AD 18')
 							+navLink('ad20.html', 'AD 20')
-							///+navLink('', 'AD 25')
+							//- +navLink('', 'AD 25')
 							+navLink('https://www.efundraisingconnections.com/c/PeoplePoweredProgressives/', 'Contribute')
+					div
+						img(src="img/ppp.jpg" style="width:100%")
 
 
 		main
 			block main
 
+
 		block footer
 			footer
+				p.
+					Paid for by People-Powered Progressives for Alameda County.  FPPC ID #1421462.
 
 		block additional-html
 		

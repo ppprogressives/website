@@ -1,0 +1,9 @@
+		.person
+			h3 ___________
+			.occupation _____________
+			img(src="img/_________/______________.jpg", alt="")
+			p.
+				____________
+			//- a.twitter(href="https://twitter.com/____________") Twitter
+			//- span &nbsp;&middot;&nbsp;
+			//- a.facebook(href="https://www.facebook.com/______________") Facebook
