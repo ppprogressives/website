@@ -7,7 +7,7 @@
 		"uuidString": "10B3496D-971D-4067-A4AA-7A0A4A057FF5"
 		}
 	],
-"creatorBuild": "31934",
+"creatorBuild": "31491",
 "files": {
 	"/.gitignore": {
 		"cB": 0,
@@ -670,7 +670,7 @@
 		},
 	"/img/ad15/alfred.jpg": {
 		"ft": 16384,
-		"iS": 25829,
+		"iS": 131162,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/img/ad15/alfred.jpg",
@@ -769,7 +769,7 @@
 		},
 	"/img/ad18/gage.jpg": {
 		"ft": 16384,
-		"iS": 9590,
+		"iS": 86479,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/img/ad18/gage.jpg",
@@ -780,7 +780,7 @@
 		},
 	"/img/ad18/howard.jpg": {
 		"ft": 16384,
-		"iS": 22334,
+		"iS": 101742,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/img/ad18/howard.jpg",
@@ -846,7 +846,7 @@
 		},
 	"/img/ad20/barisha.jpg": {
 		"ft": 16384,
-		"iS": 18708,
+		"iS": 10732,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/img/ad20/barisha.jpg",
@@ -1467,7 +1467,6 @@
 			"flagValue": -1
 			}
 		},
-	"environmentVariablesString": "NODE_ENV:::production",
 	"esLintConfigFileHandlingType": 0,
 	"esLintECMAVersion": 7,
 	"esLintEnvironmentsMask": 1,
@@ -1569,10 +1568,6 @@
 			"optionString": "'all'"
 			},
 		"default-case": {
-			"active": 0,
-			"optionString": ""
-			},
-		"default-param-last": {
 			"active": 0,
 			"optionString": ""
 			},
@@ -1922,10 +1917,6 @@
 			},
 		"no-implied-eval": {
 			"active": 0,
-			"optionString": ""
-			},
-		"no-import-assign": {
-			"active": 1,
 			"optionString": ""
 			},
 		"no-inline-comments": {
@@ -2351,10 +2342,6 @@
 		"prefer-promise-reject-errors": {
 			"active": 0,
 			"optionString": "{'allowEmptyReject': false}"
-			},
-		"prefer-regex-literals": {
-			"active": 0,
-			"optionString": ""
 			},
 		"prefer-rest-params": {
 			"active": 0,
@@ -2964,6 +2951,7 @@
 		"autoOutputPathStyle": 0,
 		"createSourceMap": 1,
 		"enableJavascript": 0,
+		"ieCompatibility": 0,
 		"mathStyle": 0,
 		"outputStyle": 0,
 		"rewriteURLStyle": 0,
@@ -3103,9 +3091,6 @@
 	"npmTargetDependencyListType": 1,
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
-	"rollupExternals": "",
-	"rollupReplacements": "process.env.NODE_ENV:::$NODE_ENV,,,ENVIRONMENT:::$NODE_ENV",
-	"rollupTreeshakingEnabled": 1,
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, /storage/framework/sessions, node_modules",
 	"sourceFolderName": "source",
 	"susyVersion": 3,
