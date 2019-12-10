@@ -87,17 +87,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/_sources/chandler.jpg": {
-		"ft": 16384,
-		"iS": 24105,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_sources/chandler.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"/_sources/cullen.jpg": {
 		"ft": 16384,
 		"iS": 41542,
@@ -745,17 +734,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/img/ad18/chandler.jpg": {
-		"ft": 16384,
-		"iS": 12011,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/img/ad18/chandler.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"/img/ad18/elenes.jpg": {
 		"ft": 16384,
 		"iS": 1109594,
@@ -930,17 +908,6 @@
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
-		"q": 100
-		},
-	"/img/ppp.jpg": {
-		"ft": 16384,
-		"iS": 107075,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/img/ppp.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
 		"q": 100
 		},
 	"/index.html": {
