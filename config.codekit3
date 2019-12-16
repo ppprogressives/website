@@ -172,12 +172,12 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/_sources/jodie.jpg": {
+	"/_sources/jody.jpeg": {
 		"ft": 16384,
-		"iS": 268482,
+		"iS": 884340,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_sources/jodie.jpg",
+		"oAP": "/_sources/jody.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -685,17 +685,6 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/img/ad16/jackie.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/img/ad16/jody.jpg": {
-		"ft": 16384,
-		"iS": 27287,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/img/ad16/jody.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
