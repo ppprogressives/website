@@ -164,6 +164,10 @@ article.textual {
 body > footer {
 	background:var(--color-paper-low);
 	color:var(--color-paper-high);
+
+	a {
+		color:green
+	}
 }
 
 

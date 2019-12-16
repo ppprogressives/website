@@ -231,7 +231,13 @@ a.active {
 
 
 
-
+hr.separator {
+	border-top: 5px dotted #888;
+}
+hr.separator.long {
+	height:20px;
+	border-bottom: 5px dotted #888;
+}
 
 
 .person {
@@ -255,7 +261,6 @@ a.active {
 	}
 
 	padding-bottom:1em;
-	border-bottom:1px solid #CCC;
 	margin-bottom:2em;
 }
 
