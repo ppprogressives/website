@@ -690,6 +690,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/img/ad16/jody.jpg": {
+		"ft": 16384,
+		"iS": 31229,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/ad16/jody.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/img/ad18/aguilar.jpg": {
 		"ft": 16384,
 		"iS": 4268464,
@@ -927,6 +938,16 @@
 		"oAP": "/index.html",
 		"oF": 0,
 		"oS": 1
+		},
+	"/press-release-2.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/press-release-2.html",
+		"oF": 0,
+		"oS": 0
 		},
 	"/press-release.html": {
 		"cB": 0,
