@@ -939,6 +939,14 @@
 		"oF": 0,
 		"oS": 1
 		},
+	"/press-release-2.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/press-release-2.html",
+		"oF": 0
+		},
 	"/press-release-2.pug": {
 		"cB": 0,
 		"cOD": 1,
