@@ -921,6 +921,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/img/votecard.jpg": {
+		"ft": 16384,
+		"iS": 2186548,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/votecard.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -1026,7 +1037,7 @@
 "projectAttributes": {
 	"creationDate": 591380731.79958606,
 	"displayValue": "peoplepoweredprogressives",
-	"displayValueWasSetByUser": 0,
+	"displayValueWasSetByUser": 1,
 	"iconImageName": "/apple-touch-icon.png",
 	"iconImageWasSetByUser": 0
 	},
