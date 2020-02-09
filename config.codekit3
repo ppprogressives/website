@@ -619,6 +619,24 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"/endorsements.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/endorsements.html",
+		"oF": 0
+		},
+	"/endorsements.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/endorsements.html",
+		"oF": 0,
+		"oS": 0
+		},
 	"/favicon-16x16.png": {
 		"ft": 32768,
 		"iS": 1356,
